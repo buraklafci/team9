@@ -6,7 +6,7 @@ public class C01_HelloWorld {
 
        System.out.println("Oguzun gönderdiği");
 
-
+        System.out.println("cihad");
 
      
     }

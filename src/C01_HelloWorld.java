@@ -6,5 +6,6 @@ public class C01_HelloWorld {
         System.out.println("yeni class açmadan gönderiyorum");
 
 
+
     }
 }
